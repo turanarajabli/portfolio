@@ -49,6 +49,10 @@ Detail-oriented and proactive accountant with over 2 years of experience in fina
 - **IFRS Compliance**
 - **Payroll & Taxation**
 
+### PROJECTS
+https://github.com/turanarajabli/ArticleScraperTool.git
+https://github.com/turanarajabli/MH-Classifier.git
+
 ### 🚀 Key Strengths
 ✔ Exceptional attention to detail & organizational skills  
 ✔ Ability to work under tight deadlines  
